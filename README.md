@@ -1,2 +1,2 @@
 # Kaggle
-Codes for Kaggle competitions
+Code related to Kaggle competitions
